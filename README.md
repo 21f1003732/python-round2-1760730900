@@ -1,20 +1,18 @@
-# Simple Web App
+# Button App
 
-This is a minimal web application created to fulfill the requirements of a coding task. It includes a basic HTML structure with a Bootstrap-based layout and a designated output area.
+This is a simple web application that includes a button.
 
-## Features
+## Requirements
 
-*   Uses Bootstrap for a clean and responsive UI.
-*   Includes a div with the id "output" as required.
-*   Is self-contained in a single `index.html` file.
+- The application must include a button with the ID `submit-btn`.
 
 ## Technologies Used
 
-*   HTML
-*   CSS (Bootstrap)
-*   JavaScript (optional)
+- HTML
+- CSS (Bootstrap)
+- JavaScript (none, but Bootstrap JS is included for potential future use)
 
 ## How to Run
 
-1.  Save the provided JSON output as `index.html`.
+1.  Save the provided `index.html` file.
 2.  Open `index.html` in a web browser.

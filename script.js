@@ -1,1 +1,1 @@
-// Optional JavaScript file
+// No separate JavaScript needed for this simple app
